@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "jars-mulock-fin",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7f42ed31-8d86-42c9-841f-a8982cb1bcd6",
+      "database_name": "aged-snowflake-246d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
